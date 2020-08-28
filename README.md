@@ -1,3 +1,3 @@
-# javascript_calculadora
+# Calculadora
 
 Inicio dos estudos de JavaScript.
